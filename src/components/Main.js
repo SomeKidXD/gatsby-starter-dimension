@@ -89,6 +89,14 @@ class Main extends React.Component {
                 <span className="label">LinkedIn</span>
               </a>
             </li>
+            <li>
+              <a
+                  href="https://github.com/SomeKidXD"
+                  className="icon fa-github"
+              >
+                <span className="label">GitHub</span>
+              </a>
+            </li>
           </ul>
           {close}
         </article>
